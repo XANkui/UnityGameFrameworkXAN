@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace UnityGameFrameworkXAN
+namespace UnityGameFrameworkXAN.Common
 {
 
     /// <summary>

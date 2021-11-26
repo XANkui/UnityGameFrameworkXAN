@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UnityGameFrameworkXAN {
+namespace UnityGameFrameworkXAN.Common {
 
    
     /// <summary>

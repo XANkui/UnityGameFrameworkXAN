@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityGameFrameworkXAN.Common;
 
 namespace UnityGameFrameworkXAN.Test
 { 
